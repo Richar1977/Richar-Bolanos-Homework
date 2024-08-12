@@ -1,0 +1,29 @@
+
+body {
+  background-color: rgb(170, 234, 234);
+}
+
+.character-grid > * {
+  margin: 20px;
+}
+
+.character-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+div {
+  border: 2px solid #141415aa;
+  border-radius: 20px;
+  background-color: #a1bbed;
+}
+img{
+  border-radius: 20px;
+  padding:0px 0px 30px 0px;
+}
+h1{
+  padding: 0px 0px 0px 50px;
+}
+p{
+  padding: 0px 0px 0px 100px;
+}
